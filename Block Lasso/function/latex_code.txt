@@ -1,0 +1,12 @@
+
+\begin{table}[!htpb]
+\centering
+\caption{} \label{} \vskip 0.2mm
+\def\temptablewidth{1\textwidth}
+\footnotesize
+\begin{tabular*}{\temptablewidth}{@{\extracolsep{\fill}}lllllll}
+\toprule
+\multirow{2}*{t} &ALM &L-ALM &P-ADMM &D-ADMM &R-ADMM &LR-ADMM\\ 
+\cmidrule(r){2-2}\cmidrule(r){3-3}\cmidrule(r){4-4}\cmidrule(r){5-5}\cmidrule(r){6-6}\cmidrule(r){7-7}  
+ &iter/time &iter/time &iter/time &iter/time &iter/time  &iter/time \\ 
+ \midrule 
