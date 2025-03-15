@@ -2,7 +2,7 @@
 
 ## 介绍
 
-### 本项目主要针对Douglas-Rachford Splitting Method 在不同数值实验下的应用
+本项目主要针对Douglas-Rachford Splitting Method 在不同数值实验下的应用
 
 ## 数值实验
 
